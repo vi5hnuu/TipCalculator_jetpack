@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="midnightBlue">#03045E</color>
+    <color name="blueRibbon">#023E8A</color>
+    <color name="cerulean">#0077B6</color>
+    <color name="pacificBlue">#0096C7</color>
+    <color name="robinEggBlue">#00B4D8</color>
+    <color name="mauvelous">#48CAE4</color>
+    <color name="babyBlue">#90E0EF</color>
+    <color name="paleCyan">#ADE8F4</color>
+    <color name="aliceBlue">#CAF0F8</color>
+</resources>
